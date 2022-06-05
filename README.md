@@ -5,7 +5,8 @@
   <img src='https://readme-typing-svg.herokuapp.com/?size=24&duration=4700&color=F73A55&center=true&vCenter=true&height=45&lines=Aspiring+web+or+app+developer+;Always+learning+new+things;What+brings+you+here+%3F;Contact+me+%F0%9F%94%BD'/>
 </p>
 
-A student from **Central Luzon State University**, currently taking **Information Technology** with a major of **System Development**. I specialize in building web and mobile applications.
+ <p style="text-justify:auto">A student from <b>Central Luzon State University</b>, currently taking <b>Information Technology</b> major in <b>System Development</b>. I specialize in building web and mobile applications.
+</p>
 
 
 
