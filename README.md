@@ -2,7 +2,7 @@
 # Hi, I'm Ivanne <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 <p align='center'>
-  <img src='https://readme-typing-svg.herokuapp.com/?size=24&duration=4700&color=F73A55&center=true&vCenter=true&height=45&lines=Aspiring+web+or+app+developer+;Always+learning+new+things;What+brings+you+here+%3F;Contact+me+%F0%9F%94%BD'/>
+  <img src='https://readme-typing-svg.herokuapp.com/?size=22&duration=4700&color=F73A55&center=true&vCenter=true&height=45&lines=Aspiring+web+or+app+developer+;Always+learning+new+things;What+brings+you+here+%3F;Contact+me+%F0%9F%94%BD'/>
 </p>
 
 <p style='text-align: justify;'> A student from <b>Central Luzon State University</b>, currently taking <b>Information Technology</b> major in <b>System Development</b>. I specialize in building web and mobile applications.
