@@ -44,7 +44,7 @@ A student from **Central Luzon State University**, taking **Information Technolo
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yvntrix&theme=dracula" alt="yvntrix" />
 </p>
 
-### Reach me:
+### Contact Me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivannerencel28@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yvntrix/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]([https://www.linkedin.com/in/yvntrix/](https://www.facebook.com/yvntrix/))
