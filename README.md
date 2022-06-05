@@ -4,18 +4,19 @@
 <p align='center'>
   <img src='https://readme-typing-svg.herokuapp.com/?size=24&duration=4700&color=F73A55&center=true&vCenter=true&height=45&lines=Aspiring+web+or+app+developer+;Always+learning+new+things;What+brings+you+here+%3F;Contact+me+%F0%9F%94%BD'/>
 </p>
-A student from **Central Luzon State University**, taking **Information Technology** with a major of **System Development**. I specialize in building web and mobile applications.
+
+A student from **Central Luzon State University**, currently taking **Information Technology** with a major of **System Development**. I specialize in building web and mobile applications.
 
 
 
-### Languages
+### Languages:
 #
 <p align='center'>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=yvntrix&theme=dracula'/>
 </p>
 
 
-### Skills
+### Skills:
 #
 <p align='center'> 
   <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/>
@@ -38,13 +39,14 @@ A student from **Central Luzon State University**, taking **Information Technolo
 </p>
 
 
-### Stats
+### Stats:
 #
 <p align="center" >
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yvntrix&theme=dracula" alt="yvntrix" />
 </p>
 
 ### Contact Me:
+#
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivannerencel28@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yvntrix/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]([https://www.linkedin.com/in/yvntrix/](https://www.facebook.com/yvntrix/))
