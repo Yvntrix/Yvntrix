@@ -10,15 +10,8 @@
 
 
 
-### Languages:
-#
-<p align='center'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=yvntrix&theme=dracula&layout=compact'/>
-</p>
 
-
-### Skills:
-#
+## 🛠 Technologies & Tools
 <p align='center'> 
   <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/>
   <img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'/>
@@ -39,15 +32,18 @@
   <img src='https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white'/>
 </p>
 
+## 📈 Stats:
 
-### Stats:
-#
+<p align='center'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=yvntrix&theme=dracula&layout=compact'/>
+</p>
 <p align="center" >
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yvntrix&theme=dracula" alt="yvntrix" />
 </p>
 
-### Contact Me:
-#
+
+## 💌 Contact Me:
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivannerencel28@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yvntrix/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]([https://www.linkedin.com/in/yvntrix/](https://www.facebook.com/yvntrix/))
