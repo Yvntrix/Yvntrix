@@ -35,10 +35,10 @@
 ## 📈 Stats:
 
 <p align='center'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=yvntrix&theme=dracula&layout=compact'/>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=yvntrix&layout=compact&theme=dark'/>
 </p>
 <p align="center" >
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yvntrix&theme=dracula" alt="yvntrix" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yvntrix&theme=dark" alt="yvntrix" />
 </p>
 
 
