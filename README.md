@@ -8,7 +8,7 @@
 <p> A student from <b>Central Luzon State University</b>, currently taking <b>Information Technology</b> major in <b>System Development</b>. I specialize in building web and mobile applications.
 </p>
 
-
+ 
 
 
 ## 🛠 Technologies & Tools:
