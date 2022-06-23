@@ -8,9 +8,6 @@
 <p> A student from <b>Central Luzon State University</b>, currently taking <b>Information Technology</b> major in <b>System Development</b>. I specialize in building web and mobile applications.
 </p>
 
- 
-
-
 ## 🛠 Technologies & Tools:
 <p align='center'> 
  <kbd> <img  src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/></kbd>
@@ -62,7 +59,7 @@
 </p>
 
 
-## 💌 Contact Me:
+## 💌 Contact Me: 
 
 <kbd>[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivannerencel28@gmail.com)</kbd>
 <kbd>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yvntrix/)</kbd>
