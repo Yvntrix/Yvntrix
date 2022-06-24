@@ -48,11 +48,11 @@
   <a target="_blank" href="https://github.com/Yvntrix/MunozExpress_Android">
     📱 Muñoz Express Android
   </a><span>- Client side to make transactions.</span>
-   <br />
+  <br />
   <a target="_blank" href="movieflix2021.000webhostapp.com/">
    🎬 MovieFLix 2021
   </a><span>- A movie site to view latest and popular movies</span>
-     <br />
+  <br />
   <a target="_blank" href="https://mov-flix.netlify.app/">
    🍿 MovFlix
   </a><span>- A movie site that is recreated with react typescript to view latest and popular movies</span>
