@@ -48,13 +48,16 @@
     📱 Muñoz Express Android
   </a><span>- Client side to make transactions.</span>
   <br />
-  <a target="_blank" href="movieflix2021.000webhostapp.com/">
+  <a target="_blank" href="https://github.com/Yvntrix/MovieFlix-2021">
    🎬 MovieFLix 2021
   </a><span>- A movie site to view latest and popular movies</span>
   <br />
-  <a target="_blank" href="https://mov-flix.netlify.app/">
+  <a target="_blank" href="https://github.com/Yvntrix/MovFlix">
    🍿 MovFlix
   </a><span>- A movie site that is recreated with react typescript to view latest and popular movies</span>
+    <a target="_blank" href="https://github.com/Yvntrix/MovFlix">
+    GenshinDev UI
+  </a><span>- A frontend wrapper for genshindev API </span>
 </p>
 
 ## 💌 Contact Me: 
