@@ -64,4 +64,4 @@
 ## 💌 Contact Me: 
 <kbd>[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivannerencel28@gmail.com)</kbd>
 <kbd>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yvntrix/)</kbd>
-<kbd>[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]([https://www.linkedin.com/in/yvntrix/](https://www.facebook.com/yvntrix/))</kbd>
+<kbd>[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/yvntrix/)</kbd>
