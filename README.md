@@ -55,8 +55,9 @@
   <a target="_blank" href="https://github.com/Yvntrix/MovFlix">
    🍿 MovFlix
   </a><span>- A movie site that is recreated with react typescript to view latest and popular movies</span>
+   <br />
     <a target="_blank" href="https://github.com/Yvntrix/MovFlix">
-    GenshinDev UI
+   🌟 GenshinDev UI
   </a><span>- A frontend wrapper for genshindev API </span>
 </p>
 
