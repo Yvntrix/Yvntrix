@@ -27,6 +27,8 @@
  <kbd> <img src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white'/></kbd>
  <kbd> <img src='https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7'/></kbd>
  <kbd> <img src='https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white'/></kbd>
+ <kbd> <img src='https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white'/></kbd>
+ 
 </p>
 
 ## 📈 Stats:
