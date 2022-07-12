@@ -41,27 +41,20 @@
 
 
 ## 💻Check my Projects:
-<p align="center" >
-  <a target="_blank" href="https://github.com/Yvntrix/MunozExpress_Web">
-    🌐 Muñoz Express Web
-  </a><span>- Admin side to manage transactions made in android app.</span>
-  <br />
-  <a target="_blank" href="https://github.com/Yvntrix/MunozExpress_Android">
-    📱 Muñoz Express Android
-  </a><span>- Client side to make transactions.</span>
-  <br />
-  <a target="_blank" href="https://github.com/Yvntrix/MovieFlix-2021">
-   🎬 MovieFLix 2021
-  </a><span>- A movie site to view latest and popular movies</span>
-  <br />
-  <a target="_blank" href="https://github.com/Yvntrix/MovFlix">
-   🍿 MovFlix
-  </a><span>- A movie site that is recreated with react typescript to view latest and popular movies</span>
-   <br />
-    <a target="_blank" href="https://github.com/Yvntrix/MovFlix">
-   🌟 GenshinDev UI
-  </a><span>- A frontend wrapper for genshindev API </span>
-</p>
+
+### 
+
+| URL | Repository| Description  |
+|---  |---        |----          |
+|[Link](https://movieflix2021.000webhostapp.com/)|[MovieFlix 2021](https://github.com/Yvntrix/MovieFlix-2021)|  A movie site to view latest and popular movies.
+| N/A|[Munoz Express Android](https://github.com/Yvntrix/MunozExpress_Android)| Client side to make transactions.
+|[Link](https://munozxpress.netlify.app/)|[Munoz Expres sWeb](https://github.com/Yvntrix/MunozExpress_Web)| Admin side to manage transactions made in android app.
+|[Link](https://mov-flix.netlify.app/a)|[MovFlix](https://github.com/Yvntrix/MovFlix)|  Movie site that is recreated with react typescript to view latest and popular movies.
+|[Link](https://genshindev.netlify.app/)|[GenshinDev](https://github.com/Yvntrix/GenshinDev_UI)| Frontend wrapper for genshindev API.
+|[Link](https://hermes-chats.vercel.app/home)|[HermesChat](https://github.com/Yvntrix/Hermes)| Simple realtime chat app inspired by FB Messenger.
+|[Link](https://no1r.vercel.app/)|[Noir](https://github.com/Yvntrix/Noir)| URL converter to hide/shorten your original URL.
+
+
 
 ## 💌 Contact Me: 
 <kbd>[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivannerencel28@gmail.com)</kbd>
