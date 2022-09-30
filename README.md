@@ -5,8 +5,11 @@
   <img src='https://readme-typing-svg.herokuapp.com?size=22&color=CA4245&center=true&height=45&lines=Frontend+Developer;Always+Learning+New+Things;Nice+to+meet+you+!+%3A)'/>
 </p>
 
-<p> A student from <b>Central Luzon State University</b>, currently taking <b>Information Technology</b> major in <b>System Development</b>. I specialize in building web and mobile applications.
+<p> A <s> student  from <b>Central Luzon State University</b>, currently taking <b>Information Technology</b> major in <b>System Development</b></s> Junior Developer at Wildcard Data Solutions Inc.
 </p>
+<!---
+
+
 
 ## 🛠 Technologies & Tools:
 <p align='center'> 
@@ -30,6 +33,7 @@
  <kbd> <img src='https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white'/></kbd>
  
 </p>
+-->
 
 ## 📈 Stats:
 <p align='center'>
