@@ -5,7 +5,7 @@
   <img src='https://readme-typing-svg.herokuapp.com?size=22&color=CA4245&center=true&height=45&lines=Frontend+Developer;Always+Learning+New+Things;Nice+to+meet+you+!+%3A)'/>
 </p>
 
-<p>Currently a Junior Developer at Wildcard Data Solutions Inc. with a degree in Bachelor of Science in Information Technology and a passion for programming. My Github profile showcases my projects. I aim for clean, efficient, and well-documented code, and I'm always eager to learn and collaborate. Feel free to reach out to me if you have any questions or project ideas. Thanks for stopping by!
+<p>Currently a Junior Developer at Wildcard Data Solutions Inc. with a degree in Bachelor of Science in Information Technology and a passion for programming. My Github profile showcases my projects, ranging from web development to mobile apps. I aim for clean, efficient, and well-documented code, and I'm always eager to learn and collaborate. Feel free to reach out to me if you have any questions or project ideas. Thanks for stopping by!
 </p>
 
 <!---
@@ -43,8 +43,6 @@
 
 ## 💻Check my Projects:
 
-### 
-
 | URL | Repository| Description  |
 |---  |---        |----          |
 |[Live](https://ngl-bomber.vercel.app/)|[ngl-bomber](https://github.com/Yvntrix/ngl-bomber)|NGL Bomber is the ultimate tool for sending multiple messages in a flash.Built with Vite, ReactJS, TypeScript, and Tailwind CSS.|
@@ -53,6 +51,8 @@
 |[Live](https://chatai-v1.vercel.app/)|[chat-ai](https://github.com/Yvntrix/chat-ai)|Chat AI is a real-time global chat with an AI chatbot powered by OpenAI. It's built with Vite, React JS, Tailwind CSS, and Firebase for a fast and efficient user experience.|
 |[Live](https://hermes-chats.vercel.app/home)|[hermes](https://github.com/Yvntrix/hermes)|Hermes is a simple real-time chat app. Built with ReactJS, Typescript, MantineUI and Firebase.|
 |[Live](https://no1r.tk/)|[noir](https://github.com/Yvntrix/noir)|A simple URL converter to hide your true URL. Built with ReactJS, Typescript, MantineUI and Firebase.|
+|[APK](https://drive.google.com/file/d/1YC46p0UKN486SvYZr321PZkKtGHW5sR0/view?usp=sharing)|[Muñoz-Express](https://github.com/Yvntrix/MunozExpress_Android)|Muñoz Express Android is the client side for our thesis project, Built with Android Studio Java and firebase.|
+
 
 
 ## 💌 Contact Me: 
