@@ -1,16 +1,14 @@
 
-# Hi, I'm Ivanne <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+# Hi there!, I'm Ivanne <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 <p align='center'>
   <img src='https://readme-typing-svg.herokuapp.com?size=22&color=CA4245&center=true&height=45&lines=Frontend+Developer;Always+Learning+New+Things;Nice+to+meet+you+!+%3A)'/>
 </p>
 
-<p> A <s> student  from <b>Central Luzon State University</b>, currently taking <b>Information Technology</b> major in <b>System Development</b></s> Junior Developer at Wildcard Data Solutions Inc.
+<p>Currently a Junior Developer at Wildcard Data Solutions Inc. with a degree in Bachelor of Science in Information Technology and a passion for programming. My Github profile showcases my projects. I aim for clean, efficient, and well-documented code, and I'm always eager to learn and collaborate. Feel free to reach out to me if you have any questions or project ideas. Thanks for stopping by!
 </p>
+
 <!---
-
-
-
 ## 🛠 Technologies & Tools:
 <p align='center'> 
  <kbd> <img  src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/></kbd>
@@ -31,16 +29,15 @@
  <kbd> <img src='https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7'/></kbd>
  <kbd> <img src='https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white'/></kbd>
  <kbd> <img src='https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white'/></kbd>
- 
 </p>
 -->
 
 ## 📈 Stats:
 <p align='center'>
-  <kbd><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=yvntrix&layout=compact&theme=dracula'/></kbd>
+  <kbd><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=yvntrix&layout=compact'/></kbd>
 </p>
 <p align="center" >
-  <kbd><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yvntrix&theme=dracula" alt="yvntrix" /></kbd>
+  <kbd><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yvntrix" alt="yvntrix" /></kbd>
 </p>
 
 
@@ -50,14 +47,12 @@
 
 | URL | Repository| Description  |
 |---  |---        |----          |
-|[Link](https://movieflix2021.000webhostapp.com/)|[MovieFlix 2021](https://github.com/Yvntrix/MovieFlix-2021)|  A movie site to view latest and popular movies.
-|[Link](https://drive.google.com/file/d/1YC46p0UKN486SvYZr321PZkKtGHW5sR0/view?usp=sharing)|[Munoz Express Android](https://github.com/Yvntrix/MunozExpress_Android)| Client side to make transactions.
-|[Link](https://munozxpress.netlify.app/)|[Munoz Expres sWeb](https://github.com/Yvntrix/MunozExpress_Web)| Admin side to manage transactions made in android app.
-|[Link](https://mov-flix.netlify.app/a)|[MovFlix](https://github.com/Yvntrix/MovFlix)|  Movie site that is recreated with react typescript to view latest and popular movies.
-|[Link](https://genshindev.netlify.app/)|[GenshinDev](https://github.com/Yvntrix/GenshinDev_UI)| Frontend wrapper for genshindev API.
-|[Link](https://hermes-chats.vercel.app/home)|[HermesChat](https://github.com/Yvntrix/Hermes)| Simple realtime chat app inspired by FB Messenger.
-|[Link](https://no1r.vercel.app/)|[Noir](https://github.com/Yvntrix/Noir)| URL converter to hide/shorten your original URL.
-
+|[Live](https://ngl-bomber.vercel.app/)|[ngl-bomber](https://github.com/Yvntrix/ngl-bomber)|NGL Bomber is the ultimate tool for sending multiple messages in a flash.Built with Vite, ReactJS, TypeScript, and Tailwind CSS.|
+|[Live](https://pokenextapp.vercel.app/)|[pokenext](https://github.com/Yvntrix/pokenext)|Pokenext is a Pokedex-like web application built around PokeApi using NextJs and TailwindCSS.|
+|[Live](https://picassoai.vercel.app/)|[picasso](https://github.com/Yvntrix/picasso)|Picasso AI is a powerful image generation tool that uses OpenAPI to turn text into visuals. Built with ReactJS, TypeScript, and Tailwind CSS.|
+|[Live](https://chatai-v1.vercel.app/)|[chat-ai](https://github.com/Yvntrix/chat-ai)|Chat AI is a real-time global chat with an AI chatbot powered by OpenAI. It's built with Vite, React JS, Tailwind CSS, and Firebase for a fast and efficient user experience.|
+|[Live](https://hermes-chats.vercel.app/home)|[hermes](https://github.com/Yvntrix/hermes)|Hermes is a simple real-time chat app. Built with ReactJS, Typescript, MantineUI and Firebase.|
+|[Live](https://no1r.tk/)|[noir](https://github.com/Yvntrix/noir)|A simple URL converter to hide your true URL. Built with ReactJS, Typescript, MantineUI and Firebase.|
 
 
 ## 💌 Contact Me: 
