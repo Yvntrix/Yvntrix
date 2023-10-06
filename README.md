@@ -49,7 +49,6 @@
 |[Live](https://pokenextapp.vercel.app/)|[pokenext](https://github.com/Yvntrix/pokenext)|Pokenext is a Pokedex-like web application built around PokeApi using NextJs and TailwindCSS.|
 |[Live](https://picassoai.vercel.app/)|[picasso](https://github.com/Yvntrix/picasso)|Picasso AI is a powerful image generation tool that uses OpenAPI to turn text into visuals. Built with ReactJS, TypeScript, and Tailwind CSS.|
 |[Live](https://hermes-chats.vercel.app/home)|[hermes](https://github.com/Yvntrix/hermes)|Hermes is a simple real-time chat app. Built with ReactJS, Typescript, MantineUI and Firebase.|
-|[Live](https://no1r.tk/)|[noir](https://github.com/Yvntrix/noir)|A simple URL converter to hide your true URL. Built with ReactJS, Typescript, MantineUI and Firebase.|
 |[APK](https://drive.google.com/file/d/1YC46p0UKN486SvYZr321PZkKtGHW5sR0/view?usp=sharing)|[Muñoz-Express](https://github.com/Yvntrix/MunozExpress_Android)|Muñoz Express Android is the client side for our thesis project, Built with Android Studio Java and firebase.|
 
 
